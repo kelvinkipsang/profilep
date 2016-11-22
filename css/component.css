@@ -273,7 +273,10 @@ img {
 .myimg{
     height: 50px;
 }
-
+.myimg1{
+    height: 50px;
+    width: 50px;
+}
 
 
 .side-right {
