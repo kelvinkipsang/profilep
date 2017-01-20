@@ -322,7 +322,7 @@ img {
 
 .intro-content h1 > span:first-child {
 	font-weight: 300;
-	font-size: 30px;
+	font-size: 70%;
 }
 
 .intro-content h1 > span:nth-child(2) {
@@ -331,7 +331,7 @@ img {
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-size: 30px;
+	font-size: 70%;
 }
 
 .intro-content h1 > span:nth-child(2):before {
@@ -659,4 +659,10 @@ img {
 
 @media screen and (max-width: 320px) {
 	body { font-size: 70%; }
+	
+}
+
+@media screen and (max-width: 320px) {
+
+	h1 > span { font-size: 10px;  }
 }

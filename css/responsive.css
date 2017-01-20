@@ -1,0 +1,27 @@
+
+
+@media screen and (max-width: 320px) {
+    .intro-content h1 > span:first-child {
+	font-weight: 300;
+	font-size: 50%;
+}
+
+	.intro-content h1 > span:nth-child(2) {
+	position: relative;
+	
+	padding: 0.8em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 50%;
+}
+
+
+	.sth{
+    position: relative;
+    left:-280px;
+    background-color:#47a3da ;
+    height: 500px;
+    
+    
+}
+}
