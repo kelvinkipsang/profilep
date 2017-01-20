@@ -147,21 +147,6 @@ body{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
 
 @media not all and (max-width: 320px)  {
@@ -209,3 +194,159 @@ body{
 }
 
 }
+
+
+
+
+
+
+@media screen and (max-width: 360px) and (min-width : 321px){
+    .intro-content h1 > span:first-child {
+	font-weight: 300;
+	font-size: 50%;
+}
+
+	.intro-content h1 > span:nth-child(2) {
+	position: relative;
+	
+	padding: 0.8em;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 50%;
+}
+
+
+	.sth{
+    position: relative;
+    left:-242px;
+    background-color:#47a3da ;
+    height: 500px;
+    
+    
+}
+	.sth1{
+    
+    position: relative;
+    right:203px;
+    bottom: 2px;
+    background:white;
+    height: 500px;
+    
+}
+.kip1{
+    
+    display: block;
+	position: relative;
+	bottom: 6px;
+	right: 6px;
+	z-index: 9999;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+
+}
+
+.timeline:before{left:-15px;}
+
+.timeline>li{margin-bottom:30px;min-height:100px; line-height: 3px;}
+.timeline>li .timeline-panel{width:70%;float:right;padding:0 0px 0px 0px;text-align:left;line-height: 3px;}
+.timeline>li .timeline-image{left:-40px;
+	margin-left:0;
+	width:50px;
+	height:50px;
+	position:absolute;
+	z-index:100;
+	background-color:#fed136;
+	color:#fff;
+	border-radius:100%;
+	border:4px solid #f1f1f1;
+	text-align:center}
+.timeline>li .timeline-image h4{font-size:10px;margin-top:12px;line-height:40px}
+
+
+.timeline-body1{
+    width: 200px;
+    position: absolute;
+    right: -0px;
+    font-size: 10px;
+}
+.change2{
+	border: 0px;
+    line-height: 3px;
+    font-size: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 300px;
+}
+
+
+ 
+
+.timeline-body2{
+    width: 200px;
+    position: absolute;
+    left: -38px;
+    
+}
+.change12{
+    position: relative;
+    left: -140px;
+    
+    font-size: 15px;
+    text-transform: none;
+    text-align: left;
+}
+body{
+	line-height: 15px;
+}
+
+.social{
+	width: 200px;
+	position: relative;
+	right: 39px;
+	padding-top: 30px;
+}
+
+.copy{
+	width: 200px;
+	line-height: 5px;
+
+}
+
+
+
+.hover08 figure img{
+    height: 30px;
+    width:  30px;
+    border-radius: 50%;
+}
+
+
+#soth1,
+#soth2,
+#soth3,
+#soth4,
+#soth5,
+#soth6,
+#soth7,
+#soth12{
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 80px;
+    width: 70px;
+    
+}
+
+.projects{
+    padding-top: 20px;
+}
+.projay{
+    padding-top: 10px;
+   
+}
+
+
+}
+
+
