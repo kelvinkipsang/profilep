@@ -80,4 +80,61 @@
 }
 
 
+ 
+
+.timeline-body2{
+    width: 200px;
+    position: absolute;
+    left: -38px;
+    
+}
+.change12{
+    position: relative;
+    left: -140px;
+    
+    font-size: 15px;
+    text-transform: none;
+    text-align: left;
+}
+body{
+	line-height: 15px;
+}
+
+.social{
+	width: 200px;
+	position: relative;
+	right: 39px;
+	padding-top: 30px;
+}
+
+.copy{
+	width: 200px;
+	line-height: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
