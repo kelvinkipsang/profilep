@@ -192,14 +192,7 @@ figure img{
     text-align: left;
 }
 
-.change12{
-    position: relative;
-    left: 20px;
-    
-    font-size: 15px;
-    text-transform: none;
-    text-align: left;
-}
+
 .section-heading{
     font-size: 10px;
     text-transform: none;
@@ -213,6 +206,14 @@ figure img{
      padding-bottom: 30px;
 }
 
+.change12{
+    position: relative;
+    left: 20px;
+    
+    font-size: 15px;
+    text-transform: none;
+    text-align: left;
+}
 
 .change2{
     line-height: 10px;
