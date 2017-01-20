@@ -24,4 +24,25 @@
     
     
 }
+	.sth1{
+    
+    position: relative;
+    right:203px;
+    bottom: 2px;
+    background:white;
+    height: 500px;
+    
+}
+.kip1{
+    
+    display: block;
+	position: relative;
+	bottom: 6px;
+	right: 6px;
+	z-index: 9999;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+
+}
 }
