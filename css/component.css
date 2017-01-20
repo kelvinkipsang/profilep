@@ -121,7 +121,7 @@ figure img{
     height: 500px;
     
 }
-#soth1,
+/*#soth1,
 #soth2,
 #soth3,
 #soth4,
@@ -151,7 +151,7 @@ figure img{
     -moz-transition: background-size 2s;
     -o-transition: background-size 2s;
     transition: background-size 2s;
-}
+}*/
 #soth1,#soth3{
     background-image: url(../img/backeuro.jpg);
 }
@@ -174,7 +174,7 @@ figure img{
     background-image: url(../img/sage1.png);
 }
 
-.hover08 figure img {
+/*.hover08 figure img {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 	-webkit-transition: .3s ease-in-out;
@@ -183,7 +183,7 @@ figure img{
 .hover08 figure:hover img {
 	-webkit-filter: grayscale(0);
 	filter: grayscale(0);
-}
+}*/
 .change1{
     position: relative;
     right: 40px;
@@ -265,7 +265,7 @@ img {
           transition: all .2s ease-in-out;
 }
 .img-circle {
-  border-radius: 50%
+  border-radius: 50%;
     
 }
 .github i{

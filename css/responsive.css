@@ -115,6 +115,36 @@ body{
 
 
 
+.hover08 figure img{
+    height: 30px;
+    width:  30px;
+    border-radius: 50%;
+}
+
+
+#soth1,
+#soth2,
+#soth3,
+#soth4,
+#soth5,
+#soth6,
+#soth7,
+#soth12{
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 80px;
+    width: 70px;
+    
+}
+
+.projects{
+    padding-top: 20px;
+}
+.projay{
+    padding-top: 10px;
+   
+}
 
 
 
@@ -132,9 +162,50 @@ body{
 
 
 
+}
 
+@media not all and (max-width: 320px)  {
+	.hover08 figure img {
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover08 figure:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
 
-
-
+#soth1,
+#soth2,
+#soth3,
+#soth4,
+#soth5,
+#soth6,
+#soth7,
+#soth12{
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 150px;
+    -webkit-transition: background-size 2s;
+    -moz-transition: background-size 2s;
+    -o-transition: background-size 2s;
+    transition: background-size 2s;
+}
+#soth12:hover,
+#soth2:hover,
+#soth7:hover,
+#soth6:hover,
+#soth5:hover,
+#soth4:hover,
+#soth1:hover,
+#soth3:hover {
+    background-size: 120%;
+    -webkit-transition: background-size 2s;
+    -moz-transition: background-size 2s;
+    -o-transition: background-size 2s;
+    transition: background-size 2s;
+}
 
 }
