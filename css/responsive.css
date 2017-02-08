@@ -987,4 +987,31 @@ h1 span{
 
 
 
+@media screen and (max-width:2000px) and (min-width : 1520px){
 
+
+    .sth{
+    position: relative;
+    left:170px;
+    background-color:#47a3da ;
+    height: 505px;
+    
+    
+}
+    .sth1{
+    
+    position: relative;
+    right:190px;
+    bottom: 1px;
+    background:white;
+    height: 500px;
+    
+}
+
+.intro-content h1{
+    position:relative;
+    top:50px;
+
+
+}
+}
