@@ -8,7 +8,7 @@
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -21,20 +21,20 @@
     left:-280px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:203px;
     bottom: 2px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 6px;
@@ -42,7 +42,7 @@
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -80,18 +80,18 @@
 }
 
 
- 
+
 
 .timeline-body2{
     width: 200px;
     position: absolute;
     left: -38px;
-    
+
 }
 .change12{
     position: relative;
     left: -140px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -128,14 +128,15 @@ body{
 #soth4,
 #soth5,
 #soth6,
-#soth7,
+#soth44,
+
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -143,7 +144,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 
@@ -168,8 +169,9 @@ body{
 #soth5,
 #soth6,
 #soth7,
+#soth44,
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 150px;
@@ -184,6 +186,7 @@ body{
 #soth6:hover,
 #soth5:hover,
 #soth4:hover,
+#soth44:hover,
 #soth1:hover,
 #soth3:hover {
     background-size: 120%;
@@ -208,7 +211,7 @@ body{
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -221,20 +224,20 @@ body{
     left:-242px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:203px;
     bottom: 2px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 6px;
@@ -242,7 +245,7 @@ body{
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -280,18 +283,18 @@ body{
 }
 
 
- 
+
 
 .timeline-body2{
     width: 200px;
     position: absolute;
     left: -38px;
-    
+
 }
 .change12{
     position: relative;
     left: -140px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -329,13 +332,14 @@ body{
 #soth5,
 #soth6,
 #soth7,
+#soth44,
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -343,7 +347,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 
@@ -358,7 +362,7 @@ body{
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -371,20 +375,20 @@ body{
     left:-227px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:202px;
     bottom: 2px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 5px;
@@ -392,7 +396,7 @@ body{
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -430,18 +434,18 @@ body{
 }
 
 
- 
+
 
 .timeline-body2{
     width: 200px;
     position: absolute;
     left: -38px;
-    
+
 }
 .change12{
     position: relative;
     left: -140px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -478,14 +482,15 @@ body{
 #soth4,
 #soth5,
 #soth6,
+#soth44,
 #soth7,
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -493,7 +498,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 
@@ -515,7 +520,7 @@ body{
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -528,20 +533,20 @@ body{
     left:-190px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:203px;
     bottom: 2px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 6px;
@@ -549,7 +554,7 @@ body{
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -587,18 +592,18 @@ body{
 }
 
 
- 
+
 
 .timeline-body2{
     width: 200px;
     position: absolute;
     left: -38px;
-    
+
 }
 .change12{
     position: relative;
     left: -140px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -635,14 +640,16 @@ body{
 #soth4,
 #soth5,
 #soth6,
+#soth44,
+
 #soth7,
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -650,7 +657,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 
@@ -665,7 +672,7 @@ body{
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -678,20 +685,20 @@ body{
     left:-190px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:203px;
     bottom: 2px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 3px;
@@ -699,7 +706,7 @@ body{
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -737,18 +744,18 @@ body{
 }
 
 
- 
+
 
 .timeline-body2{
     width: 200px;
     position: absolute;
     left: -38px;
-    
+
 }
 .change12{
     position: relative;
     left: -140px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -785,14 +792,16 @@ body{
 #soth4,
 #soth5,
 #soth6,
+#soth44,
+
 #soth7,
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -800,7 +809,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 
@@ -818,7 +827,7 @@ body{
 
 	.intro-content h1 > span:nth-child(2) {
 	position: relative;
-	
+
 	padding: 0.8em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -831,20 +840,20 @@ body{
     left:-17px;
     background-color:#47a3da ;
     height: 500px;
-    
-    
+
+
 }
 	.sth1{
-    
+
     position: relative;
     right:01px;
     bottom: 1px;
     background:white;
     height: 500px;
-    
+
 }
 .kip1{
-    
+
     display: block;
 	position: relative;
 	bottom: 1px;
@@ -852,7 +861,7 @@ body{
 	z-index: 9999;
 	font-weight: 700;
 	text-transform: uppercase;
-	
+
 
 }
 
@@ -878,7 +887,7 @@ body{
 
 
 
- 
+
 
 
 
@@ -901,7 +910,7 @@ body{
     margin-left: 0px;
     width: 100px;
     position: relative;
-    
+
     left: -0px;
 }
 .change1{
@@ -926,13 +935,13 @@ body{
     width: 200px;
     position: absolute;
     right: -220px;
-    
+
 }
 
 .change12{
     position: relative;
     right: 180px;
-    
+
     font-size: 15px;
     text-transform: none;
     text-align: left;
@@ -960,13 +969,15 @@ body{
 #soth5,
 #soth6,
 #soth7,
+#soth44,
+
 #soth12{
-    
+
     background-repeat: no-repeat;
     background-size: 100%;
     height: 80px;
     width: 70px;
-    
+
 }
 
 .projects{
@@ -974,7 +985,7 @@ body{
 }
 .projay{
     padding-top: 10px;
-   
+
 }
 
 h1 span{
@@ -995,17 +1006,17 @@ h1 span{
     left:170px;
     background-color:#47a3da ;
     height: 505px;
-    
-    
+
+
 }
     .sth1{
-    
+
     position: relative;
     right:190px;
     bottom: 1px;
     background:white;
     height: 500px;
-    
+
 }
 
 .intro-content h1{
